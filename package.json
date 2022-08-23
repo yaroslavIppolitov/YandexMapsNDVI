@@ -1,0 +1,22 @@
+{
+  "name": "yandexmapsndvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslavIppolitov/YandexMapsNDVI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroslavIppolitov/YandexMapsNDVI/issues"
+  },
+  "homepage": "https://github.com/yaroslavIppolitov/YandexMapsNDVI#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
